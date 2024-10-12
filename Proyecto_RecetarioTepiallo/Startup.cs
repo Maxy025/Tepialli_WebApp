@@ -30,6 +30,8 @@ namespace Proyecto_RecetarioTepiallo
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<RecetasContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DbConn")));
             services.AddDatabaseDeveloperPageExceptionFilter();
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)

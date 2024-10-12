@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WoPM3FOVBu18MPOe/FUDJn25h292IagG7E9UKkiji09JnCcxamtcl2KUS00pEOEu0Y7cm3NRQ1ECkYq30n0wNA==",
+  "dgSpecHash": "mG404G2tvD3nM/baZ+zXq9+vU0APxyr3VMH6T16d9FHOomxmUunWqzLjjJANTUEAx8CE/sP4RBsfYT3wl/bwug==",
   "success": true,
   "projectFilePath": "C:\\Users\\EZPAWN\\Desktop\\Decimo Semestre\\APIS de datos\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj",
   "expectedPackageFiles": [
@@ -16,10 +16,10 @@
     "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.17\\microsoft.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.17\\microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512",
     "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.17\\microsoft.entityframeworkcore.analyzers.5.0.17.nupkg.sha512",
-    "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.17\\microsoft.entityframeworkcore.design.5.0.17.nupkg.sha512",
+    "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.3\\microsoft.entityframeworkcore.design.5.0.3.nupkg.sha512",
     "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.17\\microsoft.entityframeworkcore.relational.5.0.17.nupkg.sha512",
-    "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.17\\microsoft.entityframeworkcore.sqlserver.5.0.17.nupkg.sha512",
-    "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.17\\microsoft.entityframeworkcore.tools.5.0.17.nupkg.sha512",
+    "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.3\\microsoft.entityframeworkcore.sqlserver.5.0.3.nupkg.sha512",
+    "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.3\\microsoft.entityframeworkcore.tools.5.0.3.nupkg.sha512",
     "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\EZPAWN\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

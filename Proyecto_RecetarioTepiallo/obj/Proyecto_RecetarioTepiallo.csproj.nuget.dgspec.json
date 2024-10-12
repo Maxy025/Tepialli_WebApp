@@ -54,11 +54,11 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.17, )"
+              "version": "[5.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[5.0.17, )"
+              "version": "[5.0.3, )"
             }
           },
           "imports": [
