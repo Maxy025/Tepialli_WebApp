@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C78D76A-FAA1-4D00-8708-D25E677C0AE5}|Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj|c:\\users\\madia\\onedrive\\escritorio\\universidad\\conexi\u00F3n a api\u0027s\\proyecto final\\tepialli_webapp\\proyecto_recetariotepiallo\\controllers\\recetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C78D76A-FAA1-4D00-8708-D25E677C0AE5}|Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj|solutionrelative:proyecto_recetariotepiallo\\controllers\\recetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C78D76A-FAA1-4D00-8708-D25E677C0AE5}|Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj|c:\\users\\madia\\onedrive\\escritorio\\universidad\\conexi\u00F3n a api\u0027s\\proyecto final\\tepialli_webapp\\proyecto_recetariotepiallo\\viewmodels\\buscavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C78D76A-FAA1-4D00-8708-D25E677C0AE5}|Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj|solutionrelative:proyecto_recetariotepiallo\\viewmodels\\buscavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C78D76A-FAA1-4D00-8708-D25E677C0AE5}|Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj|c:\\users\\madia\\onedrive\\escritorio\\universidad\\conexi\u00F3n a api\u0027s\\proyecto final\\tepialli_webapp\\proyecto_recetariotepiallo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C78D76A-FAA1-4D00-8708-D25E677C0AE5}|Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj|solutionrelative:proyecto_recetariotepiallo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C78D76A-FAA1-4D00-8708-D25E677C0AE5}|Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj|c:\\users\\madia\\onedrive\\escritorio\\universidad\\conexi\u00F3n a api\u0027s\\proyecto final\\tepialli_webapp\\proyecto_recetariotepiallo\\viewmodels\\recetasvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C78D76A-FAA1-4D00-8708-D25E677C0AE5}|Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj|solutionrelative:proyecto_recetariotepiallo\\viewmodels\\recetasvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C78D76A-FAA1-4D00-8708-D25E677C0AE5}|Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj|c:\\users\\madia\\onedrive\\escritorio\\universidad\\conexi\u00F3n a api\u0027s\\proyecto final\\tepialli_webapp\\proyecto_recetariotepiallo\\models\\recetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C78D76A-FAA1-4D00-8708-D25E677C0AE5}|Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj|solutionrelative:proyecto_recetariotepiallo\\models\\recetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C78D76A-FAA1-4D00-8708-D25E677C0AE5}|Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj|c:\\users\\madia\\onedrive\\escritorio\\universidad\\conexi\u00F3n a api\u0027s\\proyecto final\\tepialli_webapp\\proyecto_recetariotepiallo\\data\\recetascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C78D76A-FAA1-4D00-8708-D25E677C0AE5}|Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj|solutionrelative:proyecto_recetariotepiallo\\data\\recetascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto_RecetarioTepiallo\\appsettings.json",
+              "ToolTip": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\appsettings.json",
+              "RelativeToolTip": "Proyecto_RecetarioTepiallo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T17:47:56.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecetasController.cs",
+              "DocumentMoniker": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\Controllers\\RecetasController.cs",
+              "RelativeDocumentMoniker": "Proyecto_RecetarioTepiallo\\Controllers\\RecetasController.cs",
+              "ToolTip": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\Controllers\\RecetasController.cs",
+              "RelativeToolTip": "Proyecto_RecetarioTepiallo\\Controllers\\RecetasController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:41:08.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecetasVM.cs",
+              "DocumentMoniker": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\ViewModels\\RecetasVM.cs",
+              "RelativeDocumentMoniker": "Proyecto_RecetarioTepiallo\\ViewModels\\RecetasVM.cs",
+              "ToolTip": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\ViewModels\\RecetasVM.cs",
+              "RelativeToolTip": "Proyecto_RecetarioTepiallo\\ViewModels\\RecetasVM.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA6wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:34:30.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuscaVM.cs",
+              "DocumentMoniker": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\ViewModels\\BuscaVM.cs",
+              "RelativeDocumentMoniker": "Proyecto_RecetarioTepiallo\\ViewModels\\BuscaVM.cs",
+              "ToolTip": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\ViewModels\\BuscaVM.cs",
+              "RelativeToolTip": "Proyecto_RecetarioTepiallo\\ViewModels\\BuscaVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:34:28.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecetasContext.cs",
+              "DocumentMoniker": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\Data\\RecetasContext.cs",
+              "RelativeDocumentMoniker": "Proyecto_RecetarioTepiallo\\Data\\RecetasContext.cs",
+              "ToolTip": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\Data\\RecetasContext.cs",
+              "RelativeToolTip": "Proyecto_RecetarioTepiallo\\Data\\RecetasContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:34:19.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recetas.cs",
+              "DocumentMoniker": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\Models\\Recetas.cs",
+              "RelativeDocumentMoniker": "Proyecto_RecetarioTepiallo\\Models\\Recetas.cs",
+              "ToolTip": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexi\u00F3n a API\u0027S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\Models\\Recetas.cs",
+              "RelativeToolTip": "Proyecto_RecetarioTepiallo\\Models\\Recetas.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:33:34.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

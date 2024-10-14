@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EZPAWN\\Desktop\\Decimo Semestre\\APIS de datos\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj": {}
+    "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexión a API'S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EZPAWN\\Desktop\\Decimo Semestre\\APIS de datos\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj": {
+    "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexión a API'S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EZPAWN\\Desktop\\Decimo Semestre\\APIS de datos\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj",
+        "projectUniqueName": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexión a API'S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj",
         "projectName": "Proyecto_RecetarioTepiallo",
-        "projectPath": "C:\\Users\\EZPAWN\\Desktop\\Decimo Semestre\\APIS de datos\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj",
-        "packagesPath": "C:\\Users\\EZPAWN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EZPAWN\\Desktop\\Decimo Semestre\\APIS de datos\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo\\obj\\",
+        "projectPath": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexión a API'S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\Proyecto_RecetarioTepiallo.csproj",
+        "packagesPath": "C:\\Users\\madia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\madia\\OneDrive\\Escritorio\\Universidad\\Conexión a API'S\\Proyecto Final\\Tepialli_WebApp\\Proyecto_RecetarioTepiallo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EZPAWN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\madia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,11 +60,11 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.17, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.17, )"
             }
           },
           "imports": [
@@ -80,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
